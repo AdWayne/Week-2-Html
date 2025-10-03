@@ -4,10 +4,12 @@
     scroll-behavior: smooth; /* Плавный скролл */
 }
 .imgmobydev{ /* Селекторы по классу */
-    background-image: url('https://framerusercontent.com/assets/26DC5eBT2VuMorzdfIYmuySOn8.png'); 
+    background-image: url('https://framerusercontent.com/assets/26DC5eBT2VuMorzdfIYmuySOn8.png'); /*Ссылка для заднего фото */
     background-size: cover; /* Покрытие всего фона */
     background-position: center; /* Центрирование */
     background-repeat: no-repeat; /* Без повторения */
+    height: 50vh; /* Высота на весь экран */
+    padding: 25px; /* Внутренний отступ */
 }
 
  p{ /*Селекторы по элементу */
